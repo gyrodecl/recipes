@@ -1,3 +1,4 @@
 1.buy some lettuce
-2.chop some carrots
-3.dice some onions
+2.chop 40 carrots
+3.decore some tomatoes
+4.dice some onions
